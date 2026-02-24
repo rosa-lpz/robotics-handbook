@@ -7,7 +7,11 @@ Repository for robotics base knowledge
 * C++
 * Python
 
+# Autonomous Navigation
+* Matlab https://youtu.be/Fw8JQ5Q-ZwU?si=rujQVgwizW_J2qG3
 
+
+# Sensor Fusion
 # Examples
 * https://www.sciencedirect.com/science/article/pii/S0168169925001292
 * https://github.com/Marioemad1/farm_robot
