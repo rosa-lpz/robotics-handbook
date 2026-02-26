@@ -4,8 +4,14 @@ Repository for robotics base knowledge
 # ROS2
 
 # Programming
-* C++
-* Python
+* [C++](https://github.com/rosa-lpz/cpp/)
+* [Python](https://github.com/rosa-lpz/python/)
+
+
+
+# Software Tools
+* [Docker](https://github.com/rosa-lpz/computer-science-handbook/tree/main/software-tools/docker)
+* [Git](https://github.com/rosa-lpz/computer-science-handbook/tree/main/software-tools/git)
 
 # Autonomous Navigation
 * Matlab https://youtu.be/Fw8JQ5Q-ZwU?si=rujQVgwizW_J2qG3
