@@ -26,3 +26,6 @@ Repository for robotics base knowledge
 * https://asl.ethz.ch/
 * https://www.nasa.gov/stennis/asl/
 * https://github.com/ethz-asl/ethz-asl.github.io
+
+# References
+* Map For Professionals Transitioning to Robotics. Don't Downgrade!: https://youtu.be/V8OV4yUDtxA
