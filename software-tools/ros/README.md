@@ -63,3 +63,26 @@ You can think of a topic as a pipe between nodes, through which messages flow. I
 
 ## Example of topics, publishers and subcribers for the nodes
 ![alt text](img/nodes-topics/6.png)
+
+
+# Message Passing
+Each ROS distribution comes with a variety of predefined messages. Over 200 different messages types. Messages can contain any kind of data.
+In addition to the default message types, you can define your own custom messages.
+
+## Physical quanitties
+* Positions
+* Velocities
+* Accelerations
+* Rotations
+* Durations
+
+## Sensor readings
+* Laser scans
+* Images
+* Point Clouds
+* Inertial Measurements
+
+
+
+
+![alt text](messages/1.png)
